@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidRestClient</string>
+    <string name="host_label">Host IP</string>
+    <string name="name_label">Your Name</string>
+    <string name="submit_button_text">Submit</string>
+</resources>
